@@ -19,3 +19,5 @@
 
 <img align="left" alt="Java" width="26px" src="https://cdn-images-1.medium.com/max/1200/1*7khrXvKlEjzsh2VKsc_cAA.png" />
 <img align="left" alt="Android Studio" width="26px" src="https://www.freepngimg.com/thumb/android/58547-mobile-app-corona-application-studio-android-software.png" />
+<img align="left" alt="Firebase" width="26px" src="https://freepngimg.com/thumb/github/65813-google-computer-icons-github-firebase-angularjs-messaging.png" />
+<img align="left" alt="SQLite" width="26px" src="https://logo-download.com/wp-content/data/images/png/SQLite-logo.png" />
