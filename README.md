@@ -21,6 +21,7 @@
 <img align="left" alt="Android Studio" width="26px" src="https://www.freepngimg.com/thumb/android/58547-mobile-app-corona-application-studio-android-software.png" />
 <img align="left" alt="Firebase" width="26px" src="https://freepngimg.com/thumb/github/65813-google-computer-icons-github-firebase-angularjs-messaging.png" />
 <img align="left" alt="SQLite" width="26px" src="https://play-lh.googleusercontent.com/7zJz7OCJLhg40RqA9qmhu9Tgy6QiEYRzVhOtmKkFbQeayDVoaohaW7CSjhde7P8ts79Y" />
+<img align="left" alt="SQLite" width="26px" src="https://raw.githubusercontent.com/irontec/android-mvvm-example/master/logo.png" />
 
 <br/>
 <br/>
