@@ -8,11 +8,6 @@
 - 🥅 I am constantly learning new things
 - ⚡ I blog about my designs https://t.me/eumllBlog
 
-### Connect with me:
-
-<img align="left" alt="https://t.me/eumllBlog" width="22px" src="https://www.i-tt.ru/application/files/3015/6526/1057/Telegram-2.png" />
-<img align="left" alt="https://vk.com/eugenemll | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />  
-
 <br/>
 
 ### Languages and Tools:
