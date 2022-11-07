@@ -1,26 +1,29 @@
-### Hello dear 👋, my name is Eugene
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Evgeny</h1>
+<h3 align="center">Android developer</h3>
 
-![](https://t.me/eumllBlog)
+<img align="right" alt="Coding" width="400" src="https://github.com/3evgeny/3evgeny/blob/main/0d454efdcfe616f5751612ec01aa22ee.gif">
 
-## I am Android developer
+<p align="left">
+</p>
+
 - 💪 I like to write code
+
 - 🎉 I love to read and play the basketball
+
 - 🥅 I am constantly learning new things
+
 - ⚡ I blog about my designs https://t.me/eumllBlog
 
-<br/>
+<p align="left">
 
-### Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<img align="left" alt="Java" width="26px" src="https://cdn-images-1.medium.com/max/1200/1*7khrXvKlEjzsh2VKsc_cAA.png" />
-<img align="left" alt="Android Studio" width="26px" src="https://www.freepngimg.com/thumb/android/58547-mobile-app-corona-application-studio-android-software.png" />
-<img align="left" alt="Firebase" width="26px" src="https://freepngimg.com/thumb/github/65813-google-computer-icons-github-firebase-angularjs-messaging.png" />
-<img align="left" alt="SQLite" width="26px" src="https://play-lh.googleusercontent.com/7zJz7OCJLhg40RqA9qmhu9Tgy6QiEYRzVhOtmKkFbQeayDVoaohaW7CSjhde7P8ts79Y" />
-<img align="left" alt="SQLite" width="26px" src="https://raw.githubusercontent.com/irontec/android-mvvm-example/master/logo.png" />
 
-<br/>
-<br/>
-<br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3evgeny&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=3evgeny&theme=solarized_dark)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3evgeny&show_icons=true&theme=dark&locale=en" alt="3evgeny" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3evgeny&theme=dark" alt="3evgeny" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3evgeny&show_icons=true&theme=dark&locale=en&layout=compact" alt="3evgeny" /></p>
