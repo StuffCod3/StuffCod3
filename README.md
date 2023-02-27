@@ -1,31 +1,58 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Evgeny</h1>
-<h3 align="center">Android developer</h3>
+# Привет, меня зовут Евгений!
 
-<img align="right" alt="Coding" width="400" src="https://github.com/3evgeny/3evgeny/blob/main/0d454efdcfe616f5751612ec01aa22ee.gif">
+---
 
-<p align="left">
-</p>
+### :man_technologist: Обо мне:
 
-- 💪 I like to write code
+Я являюсь разработчиком web и мобильных приложений. Мой путь разработчика начался со школы в 17 лет, где я уделял время практике верстанию сайтов на HTML и CSS. Уже в университете я познакомился с языками программирования C++, Python и Java, которые помогли мне раскрыть свой кругозор разработчика. Из всех возможных вариантов я выбрал разработку мобильных приложений для Android, которой занимался на протяжении двух лет. Затем решил вернуться к истокам и начал писать web приложения используя Spring.
 
-- 🎉 I love to read and play the basketball
+- :telescope: Изучаю веб-разработку на практике!
 
-- 🥅 I am constantly learning new things
+- :seedling: Обязательно добавлю в свой стек новый язык программирования!
 
-- ⚡ I blog about my designs https://t.me/eumllBlog
+- :zap: Стремлюсь к Full-Stack!
 
-<p align="left">
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 💻 Технологии:
 
-<br>
-<br>
-<br>
-<br>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="android" alt="android" width="40" height="40"/>&nbsp
+  <img src="https://github.com/StuffCod3/StuffCod3/blob/main/room.png" title="room" alt="room" width="40" height="40"/>&nbsp
+  <img src="https://github.com/StuffCod3/StuffCod3/blob/main/git.png" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" alt="spring" width="40" height="40"/>&nbsp
+  <img src="https://github.com/StuffCod3/StuffCod3/blob/main/mysql.png" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/StuffCod3/StuffCod3/blob/main/hib_orm.png" title="hibernate" alt="hibernate" width="40" height="40"/>&nbsp;
+</div>
 
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3evgeny&theme=dark" alt="3evgeny" /></p>
+### 🤝 Социальные сети:
 
+<div id="badges">
+    <a href="https://t.me/stuff3h" target="_blank">
+      <img src="https://github.com/StuffCod3/StuffCod3/blob/main/tg_ic.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="https://vk.com/3stuff" target="_blank">
+      <img src="https://github.com/StuffCod3/StuffCod3/blob/main/vk_ic.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+</div>
 
+---
+
+### ⚙️ GitHub статистика:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=StuffCod3&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=StuffCod3&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
