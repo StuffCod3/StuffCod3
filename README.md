@@ -17,12 +17,12 @@
 ### 💻 Технологии:
 
 <div>
-  <img src="https://github.com/StuffCod3/StuffCod3/blob/main/git.png" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" alt="spring" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="android" alt="android" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/StuffCod3/StuffCod3/blob/main/mysql.png" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/StuffCod3/StuffCod3/blob/main/git.png" title="git" alt="git" width="40" height="40"/>&nbsp
 </div>
 
 ---
