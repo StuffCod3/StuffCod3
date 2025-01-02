@@ -23,19 +23,6 @@
 
 ---
 
-### 🤝 Социальные сети:
-
-<div id="badges">
-    <a href="https://t.me/stuff3h" target="_blank">
-      <img src="https://github.com/StuffCod3/StuffCod3/blob/main/tg_ic.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://vk.com/3stuff" target="_blank">
-      <img src="https://github.com/StuffCod3/StuffCod3/blob/main/vk_ic.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-</div>
-
----
-
 ### ⚙️ GitHub статистика:
 
 <table>
